@@ -14,5 +14,5 @@
 ---
 
 ## デモ　/ プレゼン資料
-- デモURL: 
-- プレゼンURL：
+- デモURL: https://gemini-ratatouille.vercel.app/
+- プレゼンURL：https://www.canva.com/design/DAGyxtBcSsM/ZM9sjj61CD8KovwyL6TXgQ/view?utm_content=DAGyxtBcSsM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0520f91315
