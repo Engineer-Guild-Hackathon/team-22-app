@@ -7,7 +7,7 @@
 ## チーム情報
 - チーム番号: 22
 - チーム名: Rats
-- プロダクト名: Ratatoille
+- プロダクト名: Ratatouille
 - メンバー: Yunshu Xie, Jerry Liu, Jiatong Xie, Reicheng Si, Xin Shen 
 
 
